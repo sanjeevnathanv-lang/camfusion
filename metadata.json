@@ -1,0 +1,6 @@
+{
+  "name": "FrameFlow",
+  "description": "Native-grade Android camera, non-destructive photo editor, and Gemini 4 Argon AI editing studio with CameraX & Jetpack Compose source.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
